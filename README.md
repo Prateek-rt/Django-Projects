@@ -1,2 +1,2 @@
-# Django-Projects
+# online_shopping
 Shopping app
